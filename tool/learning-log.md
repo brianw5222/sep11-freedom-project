@@ -1,19 +1,22 @@
 # Tool Learning Log
 
-Tool: **X**
+Tool: **kaboom.js**
 
-Project: **X**
+Project: **impossible platform**
 
 ---
 
-X/X/X:
-* Text
+10/23/23:
+* https://kaboomjs.com/#kaboom
+* try to make a character
+* make it jump
+* need to make it move somehow?
 
 X/X/X:
 * Text
 
 
-<!-- 
+<!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
 * Challenges, a-ha moments, etc
