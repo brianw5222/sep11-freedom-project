@@ -12,8 +12,11 @@ Project: **impossible platform**
 * make it jump
 * need to make it move somehow?
 
-X/X/X:
-* Text
+11/20/23:
+* add gravity
+* make movement keys(wasd)
+* start working on a map
+* ex: https://kaboomjs.com/play?example=platformer
 
 
 <!--
