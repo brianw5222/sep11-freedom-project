@@ -1,7 +1,7 @@
 # Entry 5
 ##### X/X/XX
 
-Text
+Nothing Here
 
 [Previous](entry04.md) | [Next](entry06.md)
 
